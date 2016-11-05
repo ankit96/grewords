@@ -1,0 +1,8 @@
+disparities=a great difference.[ nyt8 : highlighting the pay disparities between those of different genders doing the same job]
+diversify=make or become more diverse or varied.[ nyt8 : are starting an effort to collect and share data to help diversify the rank-and-file employees who make up tech companies.]
+grapple=engage in a close fight or struggle without weapons [ nyt8 : in Silicon Valley as tech companies grapple with criticism over the makeup]
+ouster=dismissal or expulsion from a position.[ nyt8 :  Ms. Pao, for one, was in the headlines last year for her court case against Kleiner Perkins, as well as her ouster as interim chief executive of Reddit]
+spurring=urge (a horse) forward by digging one's spurs into its sides.[ nyt8 : in the hope of spurring the companies to think about equality sooner rather than later.eg2:But that has not seemed to spur much movement in views on the issue.]
+cohort=a group of people with a shared characteristic.(Project Include aims to have 18 companies as part of its first cohort)
+meritocracy=government or the holding of power by people selected according to merit.(Despite an avalanche of rigorous data to the contrary, the belief in pure meritocracy persists.)
+disenfranchised=deprive (someone) of the right to vote. (Ms. Pao became something of a magnet for women who were disenfranchised with inequality issues in tech)
