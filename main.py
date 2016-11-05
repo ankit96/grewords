@@ -31,6 +31,8 @@ for a in dic:
 	if len(a[0])<=2:
 		dic.remove(a)
 	else:	
+		#if len(a)<3:
+		#	print str(a)
 		print str(a[0])+" ==> " +str(a[1])+" ==> " +str(a[2])
 
 print len(dic)
