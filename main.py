@@ -27,13 +27,15 @@ for word in lines:
 		a.append(e)
 	dic.append(a)
 shuffle(dic)
+i=0
 for a in dic:
+	i=i+1
 	if len(a[0])<=2:
 		dic.remove(a)
 	else:	
 		#if len(a)<3:
 		#	print str(a)
-		print str(a[0])+" ==> " +str(a[1])+" ==> " +str(a[2])
+		print str(i)+"  "+str(a[0])+" ==> " +str(a[1])+" ==> " +str(a[2])
 
 print len(dic)
 

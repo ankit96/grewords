@@ -175,7 +175,7 @@ implications=the conclusion that can be drawn from something, although it is not
 affluent=(especially of a group or area) having a great deal of money; wealthy. [nyt10 :Currently the loudest voices debating the potential dangers of superintelligence are affluent white men, and, perhaps for them, the biggest threat is the rise of an artificially intelligent apex predator.]
 
 triumph = a great victory or achievement.[misc :build Watson, IBM Watson, and ultimately triumph]
-overarching=comprehensive or all-embracing[misc :and our overarching technical approach.]
+overarching= including or influencing every part of something [misc :and our overarching technical approach.]
 realm=a field or domain of activity or interest.[misc :(QA) problem is one of the most challenging in the realm of computer science and artificial intelligence (AI)]
 pits(verb)=set someone or something in conflict or competition with.[misc :It pits three human contestants against one another]
 proliferation = rapid increase in the number or amount of something.[misc :With the enormous proliferation of electronic content on the web and within our enterprises, unstructured information (e.g., text, images, and speech) is growing far faster than structured information]
