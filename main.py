@@ -4,7 +4,7 @@ from random import shuffle
 
 
 
-with open ("dictionary.txt")as f:
+with open ("dictionary2.txt")as f:
 	lines=f.readlines()
 
 #print str(lines)
