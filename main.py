@@ -4,7 +4,7 @@ from random import shuffle
 
 
 
-with open ("dictionary2.txt")as f:
+with open ("shantaram.txt")as f:
 	lines=f.readlines()
 
 #print str(lines)
@@ -26,6 +26,7 @@ for word in lines:
 	if flag==0:
 		a.append(e)
 	dic.append(a)
+#print len(dic)
 shuffle(dic)
 i=0
 for a in dic:
@@ -33,9 +34,9 @@ for a in dic:
 	if len(a[0])<=2:
 		dic.remove(a)
 	else:	
-		#if len(a)<3:
+		#if len(a)<3: ## <------- decoding part
 		#	print str(a)
-		print str(i)+"  "+str(a[0])+" ==> " +str(a[1])+" ==> " +str(a[2])
+		print str(i)+"  "+str(a[0])+" == " +str(a[1])+" [ " +str(a[2]) +" ] "
 
 print len(dic)
 

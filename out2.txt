@@ -1,134 +1,137 @@
-1  compliant  ==> yeilding ==> vocobo : He was complaint and ready to go alone 
-2  craven  ==>  cowardly ==> vocobo : When he saw the enemy troops advancing ,he had a craven impulse to run for his life 
-3  ebullient  ==> Showing excitement,overflowing enthusiasm ==> vocobo : His ebullient nature could not be repressed
-4  deterrent  ==>  something that discourages,hindrance ==> vocobo : Does the threat of capital punishment serve as a deterent to potential killers?
-5  impetus  ==>  the force or energy with which a body moves ==> nyt13 :Ms. Simons said the impetus for the institute evolved from a brainstorming workshop 
-8  effrontery  ==> shameless boldness ==> vocobo :She had the effrontery to insult the guest 
-9  lofty  ==>  rising to a great height  ==> nyt11 : Its lofty goal is to essentially become the online generation’s equivalent to television.
-12  intermittent  ==>  occurring at irregular intervals; not continuous or steady. ==> nyt13: Facebook and Chinese officials have had intermittent talks in the last few years about the social network’s entering the market, 
-13  disinterested  ==>  unprejudiced ==> vocobo : The only disinteredted person in the room was the judge 
-14  distend  ==> expand ==> vocobo :I can tell when she is under stress by the way the veins distend on her forehead 
-15  diverge  ==> go in different directions from the same points ==> vocobo : The spokes of the wheel diverge from the hub 
-16  perception  ==>  the ability to see, hear, or become aware of something through the senses. ==> nyt12:The customer’s perception of the quality of the food has changed
-18  whet  ==>  a thing that stimulates appetite or desire. ==> ny11 : To whet shoppers’ appetites further, it has ..
-19  ilk  ==>  a type of person or thing similar to one already referred to. ==> nyt11 : It’s growing quickly, is doing some interesting things with glasses and has gotten a lot of attention. There aren’t a lot of that ilk.
-20  Draped  ==>  arrange (cloth or clothing) loosely or casually on or round something. ==> nyt15 : Draped over the oven handle is a dish towel printed with a calendar for 1968, another tumultuous year.
-21  cogent  ==>  convincing ==> vocobo : She represented cogent arguments to the jury
-22  grates  ==> reduce (food) to small shreds by rubbing it on a grater. ==> nyt14 : Although he insists he doesn’t harbor ill will toward those better-known researchers, it grates on him that history hasn’t been kinder
-23  cordoned  ==> prevent access to or from an area or building by surrounding it with police or other guards.  ==> nyt13:China has been cordoned off to the social network since 2009 because of the government’s strict rules around censorship of user content.
-24  coda  ==>  Concluding section of musical composition ==> vocobo : The piece concluded with a disinctive coda
-25  denigrate  ==> blacken ==> vocobo :All attempts to denigrate the character ,.. 
-26  convoluted  ==> coiled around ==> vocobo :His argument was so convoluted that few of us could follow it 
-27  discredit  ==>  defame  ==> vocobo : Each candidate tried to discredit the other 
-28  elegy  ==> poem or song expressing lamentation ==> vocobo :one the death of edward king , milton composed the elegy "lycia: 
-29  condone  ==>  overlook ==> vocobo : They condoned amit's minor offenses 
-30  nascent ==> (especially of a process or organization) just coming into existence and beginning to display signs of future potential. ==> nyt13:He told the gathering that Facebook’s China plans were nascent
-31  espousing  ==>  adopt or support (a cause, belief, or way of life). ==> nyt12 : And it’s precisely the opposite kind of life that Mr. Trump was espousing
-32  disjointed  ==>  disconnected ==> vocobo :His remarks were so disjointed that we could not follow his reasoning 
-33  efficacy  ==>  power to produce desired effect,efficiancy ==> vocobo : The efficacy of this drug depends on ..
-34  discrepency  ==>  lack of consistency ==> vocobo : The police noted some discrepencies in his description of the crime and did not believe him 
-35  colossal  ==>  extremely large or great. ==> nyt15 : with a colossal Christmas tree glittering in Penn Square 
-36  prelude  ==> an action or event serving as an introduction to something more important.  ==> 
-37  empirical  ==>  based on experience ==> vocobo : empirical formula 
-38  gutted  ==>  bitterly disappointed or upset. ==> nyt11 : They have subsumed and gutted mainstream media. 
-39  diatribe  ==> bitter scolding,denunciation ==> vocobo :During the lengthy diatribe delivered by his opponent ... 
-40  smattering  ==>  a small amount of something. ==> nyt11 : with a smattering of modest deals that eventually build up to the shopping bonanza
-42  loath  ==> reluctant; unwilling. ==> nyt12 : Franchisees may be loath to make such investments at a time when restaurant sales are lackluster at best 
-43  et cetera  ==> used at the end of a list to indicate that further, similar items are included. ==> nyt14 :which will build something even smarter, et cetera, et cetera, and eventually colonize and transform the universe
-44  stultification  ==>  To cause to lose interest or feel dull and not alert:  ==> nyt12 :Detroit is what happens when you have 30 years of stultification and rigidity
-45  dissolution  ==>  looseness in morals ==> vocobo : The dissolution of life in columbia appall some activists 
-46  smattering ==>  a slight superficial knowledge of a language or subject ==> nyt13:Mr. Smith speaks a smattering of Mandarin.
-47  tumultuous  ==>  making an uproar or loud, confused noise. ==> nyt15 :  another tumultuous year.
-48  delineate  ==> portray ==> vocobo :He is weakest when he attempts to delineate character 
-49  commotion  ==>  a state of confused and noisy disturbance. ==> nyt15 :Their imminent arrival explains all the commotion inside this slate-colored house in the small city of Lancaster
-50  impasse  ==>  a situation in which no progress is possible, especially because of disagreement; a deadlock. ==> nyt15 : The impasse, after two years of tense negotiations, broke into open warfare
-51  deference  ==>  courteous regard to someone's wish ==> vocobo : In deference to his desires , the employers granted  him a holday 
-53  dormant  ==> sleeping,lethargic ==> vocobo : Sometimes dormant talents in our friends surprise us
-54  eclectic  ==>  selective ==> vocobo :His style of website designing was eclectic 
-55  dismay  ==>  concern and distress caused by something unexpected. ==> nyt12 : Forrester retained an engineer’s curiosity about how things work, and occasionally voiced dismay that his students were not always so inclined
-56  Fret  ==>  a state of anxiety. ==> nyt11 : Fret not, frugal shopper
-57  endemic  ==>  prevailing among a specific group of people or in specific country ==> vocobo : This disease is endemic in this part of the world
-58  xenophobia  ==>  dislike of or prejudice against people from other countries. ==> nyt11 : blatant expressions of racism and xenophobia
-59  derides  ==>  express contempt for; ridicule. ==> nyt12: More than that, Mr. Trump campaigned on restoring jobs and manufacturing, which Silicon Valley derides as the old economy
-60  ephermeral  ==>  short-lived ==> vocobo : The butterfly is an emphemeral creature 
-61  desultory  ==>  aimless ==> vocobo :To him reading was not desultory 
-62  dismiss  ==> reject ==> vocobo :She dismissed the notion that he might be unfaithful 
-63  divest  ==>  strip,deprive ==> vocobo :He was divested of his power to act 
-64  engender  ==> cause,produce ==> vocobo : To recieve praise for accomplishments engenders self -confidence in a child 
-66  overt  ==>  done or shown openly; plainly apparent. ==> nyt11:things like overt calls to racial bias
-67  contention  ==>  claim,thesis ==> vocobo : It is our contention that ..
-68  weed out  ==>  to separate out, ==> nyt11 : to weed out the good deals from the bad.
-69  staggering  ==>  walk or move unsteadily, as if about to fall. ==> nyt11 : With about a quarter of the world’s population now on Facebook, the possibilities are staggering.
-70  distill  ==> purify ==> vocobo :Distilled water should be prefered in mumbai 
-71  mediocre  ==>  of only average quality; not very good. ==> nyt11 : Sometimes mediocre deals can be tricky to catch.
-72  incendiary  ==>  tending to stir up conflict. ==> nyt12  : frequently incendiary, articles that were highly shared by their users
-73  ubiquity  ==>  Ubiquity is the state of being everywhere all the time ==> nyt11 : One is the ubiquity of Facebook, which has reached a truly epic scale.
-74  dogmatic  ==> opinionated arbitary doctrinal ==> vocobo : Do not be so dogmatic about your statement
-75  empathy  ==>  the ability to understand and share the feelings of another. ==> nyt12: :women and minorities won’t be targeted by hateful discourse. But civility and empathy can be disrupted, too.
-76  egalitarian  ==>  believing in or based on the principle that all people are equal and deserve equal rights and opportunities. ==> nyt14 :Intel’s founders tried to create an egalitarian culture where the chief executive sat among his employees
-77  compendium  ==>  brief ,comprehensive summary ==> vocobo : this text can serve as a compendium of ..
-78  discerning  ==>  mentally quick and abservant ==> vocobo :He was considered the most discerning member of the firm 
-79  dirge  ==> lament with music ==> vocobo :The funeral dirge stirred us to tears 
-80  elicit  ==> draw out by discusion ==> vocobo : The detectives tried ti elicit where he has hidden the loot 
-81  scours  ==>  clean or brighten the surface of (something) by rubbing it hard ==> nyt15 : He scours a government checklist of housing requirements for a resettlement
-82  subtle  ==>  so delicate or precise as to be difficult to analyse or describe. ==> nyt14: With cloud computing, the risk — at least for now — appears more subtle.
-83  cavernous  ==> giving the impression of vast, dark depths. ==> nyt15 : begin racing through the cavernous store like contestants on the old “Supermarket Sweep” game show
-84  grappling  ==> engage in a close fight or struggle without weapon ==>  nyt12 : The company was grappling with big fluctuations in stock levels and work force numbers at an appliance plant in Kentucky.
-85  teetering  ==>  move or balance unsteadily; sway back and forth. ==> nyt14 : Business growth has been teetering
-86  equanimity  ==>  calmness of temperament ==> vocobo : He could look upon the foolishness of the world with equanimity and humour 
-87  stew  ==>  a state of great anxiety or agitation. ==> nyt12 : businesses that have financial incentives to share fake news and encourage their users to stew in their own hateful juices
-88  scoffing  ==>  speak to someone or about something in a scornfully derisive or mocking way. ==> nyt12: But at least he wasn’t publicly scoffing at the dream or commending a life as the hardest working Uber driver
-89  dud  ==>  a thing that fails to work properly or is otherwise unsatisfactory or worthless. ==> nyt11 :  Black Friday deals are duds.
-90  averse  ==>  having a strong dislike of or opposition to something. ==> nyt15 :Still, given a president-elect who seems averse to the country’s modest commitment to refugee relocation,
-91  disparate  ==>  different, unrelated ==> vocobo :It is difficult to organize these disparate elements 
-92  jugular  ==> of the neck or throat. ==> nyt12 :The moment you begin to take success for granted is the moment a competitor lunges for your jugular.
-94  binges  ==>  a period of excessive indulgence in an activity, especially drinking alcohol or eating. ==> nyt14 :  Tech industry coders are known for their all-night binges 
-95  paltry  ==> (of an amount) very small or meagre. ==> nyt12: McDonald’s American restaurants rose a paltry 1.3 percent in the third quarter of this year.
-96  derisive  ==>  expressing contempt or ridicule. ==> nyt15 : Nokia has split its patent portfolio and transferred slices to so-called patent trolls — a derisive term for companies that buy others’ intellectual property
-97  diffuse  ==> spread out ==> vocobo : He produced diffused manuscipts rather than brief ones
-98  conundrum  ==> riddle,diff problem ==> vocobo : During the ride ,she invented conundrums to entertain the children
-99  decorum  ==>  orderliness ==> vocobo : Teacher criticized the class for its lack of decorum 
-100  cocoons  ==> verb envelop in a protective or comforting way. ==> nyt15 :the winged wheel of the Detroit Red Wings and other invitations to sleep in cocoons of American culture.
-101  diffidence  ==> shyness ==> vocobo : Your must overcome your diffidence ,..
-102  dissemble  ==> disguise ,pretent ==> vocobo : John tried to dissemble his motive for taking modern dance 
-103  disparage  ==> belittle ==> vocobo : Donnot disparage anyone's contribution 
-104  foray  ==>  a sudden attack or incursion into enemy territory, especially to obtain something; a raid. ==> nyt13 : this was its first foray into hiring its own scientists and embarking on its own research.
-106  conciliatory  ==> soothing ==> vocobo : She was still angry despite his conciliatory words
-107  converge  ==> come together ==> vocobo :prism helps to converge diff colours into white light 
-108  Darwinism  ==>  the theory of the evolution of species by natural selection advanced by Charles Darwin. ==>  nyt12 : It’s an exhausting, Darwinian life he is describing 
-109  commensurate  ==>  equal in extent ==> vocobo :your reward will be commensurate with your effort
-110  civility  ==>  formal politeness and courtesy in behaviour or speech. ==> nyt12: women and minorities won’t be targeted by hateful discourse. But civility and empathy can be disrupted, too.
-111  reviled  ==> criticize in an abusive or angrily insulting manner. ==> nyt11 :  Mr. Trump, who was once reviled by most members of the party he now leads
-112  disabuse  ==> correct a false impression ==> vocobo :I will attempt to disabuse you of your impression 
-113  encroach  ==>  intrude on (a person's territory, rights, personal life, etc.). ==>  nyt11 :  as rivals try to encroach on its turf by copying some of the photo messaging service’s signature features.
-114  equivocate  ==>  lie,mislead ==> vocobo : Judge saw him equivocating in courtroom 
-115  erudite  ==> learned,scholarly ==> vocobo : His fellow students thought him erudite
-116  frugal  ==>  sparing or economical as regards money or food. ==> nyt11 : Fret not, frugal shopper
-117  trundled  ==>   move or cause to move slowly and heavily. ==> nyt15 : The used furniture being trundled in reflects the emphasis on economy. 
-120  lackluster  ==> lacking in vitality, force, or conviction; uninspired or uninspiring. ==> nyt12: Franchisees may be loath to make such investments at a time when restaurant sales are lackluster at best 
-121  enervate  ==>  weaken ==> vocobo :Even a short walk to the market enervated her 
-122  derivative  ==>  obtained from another source ==> vocobo :Her early poetry was clearly derivative in nature 
-123  endeavor  ==>  try hard to do or achieve something. ==> nyt13 : He gave a talk at Simons outlining some possibilities for what a computational biology endeavor might look like.
-124  seminal  ==> strongly influencing later developments. ==> nyt14 :He’s done a lot of seminal stuff
-126  contrite  ==> penitent,having remorse ==> vocobo :Her contrite tears did not influence the judge 
-127  cusp  ==> a pointed end where two curves meet, in particular: ==> nyt14 :  Is artificial intelligence an engineering discipline, or a godlike field on the cusp of creating a new superintelligent species?
-128  dawning  ==>  the beginning or first appearance of something. ==> nyt11 : The dangers posed by fake news are just a symptom of a deeper truth now dawning on the world
-129  decimated  ==>  kill, destroy, or remove a large proportion of. ==> nyt15 :Nokia, the Finnish company that was the world’s largest cellphone maker until its business was decimated by Apple
-130  rhetoric  ==>  the art of effective or persuasive speaking or writing, especially the exploitation of figures of speech and other compositional techniques. ==> nyt14 :Trump's campaign rhetoric
-131  discrete  ==>  unconnected ==> vocobo :The universe is composed of discrete bodies 
-132  enhance  ==>  improve ==> vocobo : your chances of promotion will be enhanced if .. 
-133  incumbent ==>  necessary for (someone) as a duty or responsibility. ==> nyt13:selling its Chinese business to an incumbent rival,
-134  nepotism  ==>  the practice among those with power or influence of favouring relatives or friends, especially by giving them jobs. ==> nyt12:Instead of rewarding the best people in the organization and firing the worst, they promoted on the basis of longevity and nepotism.
-135  exuberant  ==>  full of energy, excitement, and cheerfulness. ==> nyt15 : exuberant with hope that some refugee family’s journey will be just as smooth.
-136  eschew  ==>  deliberately avoid using; abstain from. ==> nyt11 : A Snap share sale is also expected to eschew the complexities of previous technology initial public offerings 
-137  connoisseur  ==>  person competent to act as judge of art ==> vocobo :She had developed into a connoisseur of fine china 
-138  default  ==>  failure to do ==> vocobo :As a result of her husbands failure to appear in court , she was granted a divorce by default 
-139  dicotomy  ==> branching into two parts(esp contradictory ones] ==> 
-140  daunt  ==>  intimidate,frighten ==> vocobo : Your threats cannot daunt me
-141  niche  ==>  a shallow recess, especially one in a wall to display a statue or other ornament. ==> nyt13  : hope the new institute will fill an overlooked niche.
-142  beachheads  ==>  a defended position on a beach taken from the enemy by landing forces, from which an attack can be launched. ==> nyt11 : Such has been the popularity of Snapchat that media organizations have rushed to establish beachheads on the service. 
-143  desiccate  ==> dry up ==> vocobo :The pioneers used to desiccate food in order to preserve it 
-145  emulate  ==>  match or surpass (a person or achievement), typically by imitation. ==> vocobo : "most rulers wished to emulate Alexander the Great" 
-146  sleuthing  ==> carry out a search or investigation in the manner of a detective. ==> nyt11 :  It just takes a bit of forethought and web sleuthing
-148  discordant  ==> conficting ==> vocobo :The sound of jumior orchestra tunning up is so discordant 
-148
+1  dogmatic  == opinionated arbitary doctrinal [ vocobo : Do not be so dogmatic about your statement ] 
+2  equivocate  ==  lie,mislead [ vocobo : Judge saw him equivocating in courtroom  ] 
+3  decorum  ==  orderliness [ vocobo : Teacher criticized the class for its lack of decorum  ] 
+4  egalitarian  ==  believing in or based on the principle that all people are equal and deserve equal rights and opportunities. [ nyt14 :Intel’s founders tried to create an egalitarian culture where the chief executive sat among his employees ] 
+5  smattering ==  a slight superficial knowledge of a language or subject [ nyt13:Mr. Smith speaks a smattering of Mandarin. ] 
+6  eclectic  ==  selective [ vocobo :His style of website designing was eclectic  ] 
+7  elegy  == poem or song expressing lamentation [ vocobo :one the death of edward king , milton composed the elegy "lycia:  ] 
+8  binges  ==  a period of excessive indulgence in an activity, especially drinking alcohol or eating. [ nyt14 :  Tech industry coders are known for their all-night binges  ] 
+9  convoluted  == coiled around [ vocobo :His argument was so convoluted that few of us could follow it  ] 
+11  distill  == purify [ vocobo :Distilled water should be prefered in mumbai  ] 
+12  diffuse  == spread out [ vocobo : He produced diffused manuscipts rather than brief ones ] 
+13  weed out  ==  to separate out, [ nyt11 : to weed out the good deals from the bad. ] 
+14  embellish  == make (something) more attractive by the addition of decorative details or features. [ vocobo :My mothers stories about her jouney made me laugh becoause she embellished the bare facts of her travel with humorous anecdotes  ] 
+15  dismiss  == reject [ vocobo :She dismissed the notion that he might be unfaithful  ] 
+16  scours  ==  clean or brighten the surface of (something) by rubbing it hard [ nyt15 : He scours a government checklist of housing requirements for a resettlement ] 
+18  conciliatory  == soothing [ vocobo : She was still angry despite his conciliatory words ] 
+19  diffidence  == shyness [ vocobo : Your must overcome your diffidence ,.. ] 
+20  cogent  ==  convincing [ vocobo : She represented cogent arguments to the jury ] 
+21  craven  ==  cowardly [ vocobo : When he saw the enemy troops advancing ,he had a craven impulse to run for his life  ] 
+22  dupe  == someone easily fooled [ vocobo :Watson often was made a dupe   ] 
+23  dirge  == lament with music [ vocobo :The funeral dirge stirred us to tears  ] 
+24  delineate  == portray [ vocobo :He is weakest when he attempts to delineate character  ] 
+25  equanimity  ==  calmness of temperament [ vocobo : He could look upon the foolishness of the world with equanimity and humour  ] 
+26  empathy  ==  the ability to understand and share the feelings of another. [ nyt12: :women and minorities won’t be targeted by hateful discourse. But civility and empathy can be disrupted, too. ] 
+27  empirical  ==  based on experience [ vocobo : empirical formula  ] 
+28  et cetera  == used at the end of a list to indicate that further, similar items are included. [ nyt14 :which will build something even smarter, et cetera, et cetera, and eventually colonize and transform the universe ] 
+29  connoisseur  ==  person competent to act as judge of art [ vocobo :She had developed into a connoisseur of fine china  ] 
+30  engender  == cause,produce [ vocobo : To recieve praise for accomplishments engenders self -confidence in a child  ] 
+31  default  ==  failure to do [ vocobo :As a result of her husbands failure to appear in court , she was granted a divorce by default  ] 
+32  trundled  ==   move or cause to move slowly and heavily. [ nyt15 : The used furniture being trundled in reflects the emphasis on economy.  ] 
+33  disparage  == belittle [ vocobo : Donnot disparage anyone's contribution  ] 
+34  diverge  == go in different directions from the same points [ vocobo : The spokes of the wheel diverge from the hub  ] 
+35  stultification  ==  To cause to lose interest or feel dull and not alert:  [ nyt12 :Detroit is what happens when you have 30 years of stultification and rigidity ] 
+36  whet  ==  a thing that stimulates appetite or desire. [ ny11 : To whet shoppers’ appetites further, it has .. ] 
+37  subtle  ==  so delicate or precise as to be difficult to analyse or describe. [ nyt14: With cloud computing, the risk — at least for now — appears more subtle. ] 
+38  reviled  == criticize in an abusive or angrily insulting manner. [ nyt11 :  Mr. Trump, who was once reviled by most members of the party he now leads ] 
+39  incumbent ==  necessary for (someone) as a duty or responsibility. [ nyt13:selling its Chinese business to an incumbent rival, ] 
+40  dawning  ==  the beginning or first appearance of something. [ nyt11 : The dangers posed by fake news are just a symptom of a deeper truth now dawning on the world ] 
+41  smattering  ==  a small amount of something. [ nyt11 : with a smattering of modest deals that eventually build up to the shopping bonanza ] 
+42  discrepency  ==  lack of consistency [ vocobo : The police noted some discrepencies in his description of the crime and did not believe him  ] 
+43  indispensable  ==  absolutely necessary. [ nyt12: Simulations of dynamic systems are now indispensable throughout the physical and social sciences ] 
+44  nascent == (especially of a process or organization) just coming into existence and beginning to display signs of future potential. [ nyt13:He told the gathering that Facebook’s China plans were nascent ] 
+45  amid  ==  surrounded by; in the middle of [  nyt11 : The confidential filing, made with the Securities and Exchange Commission before the presidential election last week, comes amid a relative drought in the market for initial public offerings.  ] 
+47  distend  == expand [ vocobo :I can tell when she is under stress by the way the veins distend on her forehead  ] 
+49  elicit  == draw out by discusion [ vocobo : The detectives tried ti elicit where he has hidden the loot  ] 
+50  sleuthing  == carry out a search or investigation in the manner of a detective. [ nyt11 :  It just takes a bit of forethought and web sleuthing ] 
+51  jugular  == of the neck or throat. [ nyt12 :The moment you begin to take success for granted is the moment a competitor lunges for your jugular. ] 
+52  grappling  == engage in a close fight or struggle without weapon [  nyt12 : The company was grappling with big fluctuations in stock levels and work force numbers at an appliance plant in Kentucky. ] 
+53  coagulate  ==  thicken [ vocobo :"blood had coagulated round the edges of the gash" ] 
+54  colossal  ==  extremely large or great. [ nyt15 : with a colossal Christmas tree glittering in Penn Square  ] 
+55  compendium  ==  brief ,comprehensive summary [ vocobo : this text can serve as a compendium of .. ] 
+56  cocoons  == verb envelop in a protective or comforting way. [ nyt15 :the winged wheel of the Detroit Red Wings and other invitations to sleep in cocoons of American culture. ] 
+57  erudite  == learned,scholarly [ vocobo : His fellow students thought him erudite ] 
+58  endeavor  ==  try hard to do or achieve something. [ nyt13 : He gave a talk at Simons outlining some possibilities for what a computational biology endeavor might look like. ] 
+60  confound  ==  confuse [ vocobo : No mystery could confound sherlock holmes ] 
+61  endemic  ==  prevailing among a specific group of people or in specific country [ vocobo : This disease is endemic in this part of the world ] 
+62  dissonance  == discord [ vocobo : some musicians deliberately use dissinance to achiev certain effects  ] 
+64  espousing  ==  adopt or support (a cause, belief, or way of life). [ nyt12 : And it’s precisely the opposite kind of life that Mr. Trump was espousing ] 
+65  cusp  == a pointed end where two curves meet, in particular: [ nyt14 :  Is artificial intelligence an engineering discipline, or a godlike field on the cusp of creating a new superintelligent species? ] 
+66  exuberant  ==  full of energy, excitement, and cheerfulness. [ nyt15 : exuberant with hope that some refugee family’s journey will be just as smooth. ] 
+67  prelude  == an action or event serving as an introduction to something more important.  [  ] 
+68  discrete  ==  unconnected [ vocobo :The universe is composed of discrete bodies  ] 
+69  converge  == come together [ vocobo :prism helps to converge diff colours into white light  ] 
+70  discordant  == conficting [ vocobo :The sound of jumior orchestra tunning up is so discordant  ] 
+72  deference  ==  courteous regard to someone's wish [ vocobo : In deference to his desires , the employers granted  him a holday  ] 
+73  incendiary  ==  tending to stir up conflict. [ nyt12  : frequently incendiary, articles that were highly shared by their users ] 
+74  contention  ==  claim,thesis [ vocobo : It is our contention that .. ] 
+76  ephermeral  ==  short-lived [ vocobo : The butterfly is an emphemeral creature  ] 
+78  nepotism  ==  the practice among those with power or influence of favouring relatives or friends, especially by giving them jobs. [ nyt12:Instead of rewarding the best people in the organization and firing the worst, they promoted on the basis of longevity and nepotism. ] 
+79  tumultuous  ==  making an uproar or loud, confused noise. [ nyt15 :  another tumultuous year. ] 
+80  discredit  ==  defame  [ vocobo : Each candidate tried to discredit the other  ] 
+82  encroach  ==  intrude on (a person's territory, rights, personal life, etc.). [  nyt11 :  as rivals try to encroach on its turf by copying some of the photo messaging service’s signature features. ] 
+83  xenophobia  ==  dislike of or prejudice against people from other countries. [ nyt11 : blatant expressions of racism and xenophobia ] 
+85  lackluster  == lacking in vitality, force, or conviction; uninspired or uninspiring. [ nyt12: Franchisees may be loath to make such investments at a time when restaurant sales are lackluster at best  ] 
+86  dissemble  == disguise ,pretent [ vocobo : John tried to dissemble his motive for taking modern dance  ] 
+87  dismay  ==  concern and distress caused by something unexpected. [ nyt12 : Forrester retained an engineer’s curiosity about how things work, and occasionally voiced dismay that his students were not always so inclined ] 
+88  disingenuous  == not naive ,sophisticated [ vocobo :His remarks indicated that he was disingenuous  ] 
+89  compliant  == yeilding [ vocobo : He was complaint and ready to go alone  ] 
+90  discerning  ==  mentally quick and abservant [ vocobo :He was considered the most discerning member of the firm  ] 
+91  frugal  ==  sparing or economical as regards money or food. [ nyt11 : Fret not, frugal shopper ] 
+92  beachheads  ==  a defended position on a beach taken from the enemy by landing forces, from which an attack can be launched. [ nyt11 : Such has been the popularity of Snapchat that media organizations have rushed to establish beachheads on the service.  ] 
+93  gutted  ==  bitterly disappointed or upset. [ nyt11 : They have subsumed and gutted mainstream media.  ] 
+94  lunge  ==  a sudden forward thrust of the body, typically with an arm outstretched to attack someone or seize something. [ nyt12 : The moment you begin to take success for granted is the moment a competitor lunges for your jugular. ] 
+95  seminal  == strongly influencing later developments. [ nyt14 :He’s done a lot of seminal stuff ] 
+96  loath  == reluctant; unwilling. [ nyt12 : Franchisees may be loath to make such investments at a time when restaurant sales are lackluster at best  ] 
+97  complaisant  ==  trying to please,obliging [ vocobo : He obeyed the king's order in a complaisant manner  ] 
+98  dud  ==  a thing that fails to work properly or is otherwise unsatisfactory or worthless. [ nyt11 :  Black Friday deals are duds. ] 
+100  disjointed  ==  disconnected [ vocobo :His remarks were so disjointed that we could not follow his reasoning  ] 
+101  civility  ==  formal politeness and courtesy in behaviour or speech. [ nyt12: women and minorities won’t be targeted by hateful discourse. But civility and empathy can be disrupted, too. ] 
+102  decimated  ==  kill, destroy, or remove a large proportion of. [ nyt15 :Nokia, the Finnish company that was the world’s largest cellphone maker until its business was decimated by Apple ] 
+103  Draped  ==  arrange (cloth or clothing) loosely or casually on or round something. [ nyt15 : Draped over the oven handle is a dish towel printed with a calendar for 1968, another tumultuous year. ] 
+104  derisive  ==  expressing contempt or ridicule. [ nyt15 : Nokia has split its patent portfolio and transferred slices to so-called patent trolls — a derisive term for companies that buy others’ intellectual property ] 
+105  efficacy  ==  power to produce desired effect,efficiancy [ vocobo : The efficacy of this drug depends on .. ] 
+106  stew  ==  a state of great anxiety or agitation. [ nyt12 : businesses that have financial incentives to share fake news and encourage their users to stew in their own hateful juices ] 
+107  Darwinism  ==  the theory of the evolution of species by natural selection advanced by Charles Darwin. [  nyt12 : It’s an exhausting, Darwinian life he is describing  ] 
+108  derivative  ==  obtained from another source [ vocobo :Her early poetry was clearly derivative in nature  ] 
+109  coda  ==  Concluding section of musical composition [ vocobo : The piece concluded with a disinctive coda ] 
+110  divest  ==  strip,deprive [ vocobo :He was divested of his power to act  ] 
+111  contentious  ==  quarrelsome [ vocobo : We heard contentious noises in the next room ] 
+112  derides  ==  express contempt for; ridicule. [ nyt12: More than that, Mr. Trump campaigned on restoring jobs and manufacturing, which Silicon Valley derides as the old economy ] 
+113  dicotomy  == branching into two parts(esp contradictory ones] [  ] 
+114  intermittent  ==  occurring at irregular intervals; not continuous or steady. [ nyt13: Facebook and Chinese officials have had intermittent talks in the last few years about the social network’s entering the market,  ] 
+115  denigrate  == blacken [ vocobo :All attempts to denigrate the character ,..  ] 
+116  cordoned  == prevent access to or from an area or building by surrounding it with police or other guards.  [ nyt13:China has been cordoned off to the social network since 2009 because of the government’s strict rules around censorship of user content. ] 
+117  mediocre  ==  of only average quality; not very good. [ nyt11 : Sometimes mediocre deals can be tricky to catch. ] 
+118  Fret  ==  a state of anxiety. [ nyt11 : Fret not, frugal shopper ] 
+119  perception  ==  the ability to see, hear, or become aware of something through the senses. [ nyt12:The customer’s perception of the quality of the food has changed ] 
+120  deride  ==  make fun of [ vocobo : The people derided his grandiose schemes  ] 
+121  deterrent  ==  something that discourages,hindrance [ vocobo : Does the threat of capital punishment serve as a deterent to potential killers? ] 
+122  disabuse  == correct a false impression [ vocobo :I will attempt to disabuse you of your impression  ] 
+123  disinterested  ==  unprejudiced [ vocobo : The only disinteredted person in the room was the judge  ] 
+125  teetering  ==  move or balance unsteadily; sway back and forth. [ nyt14 : Business growth has been teetering ] 
+126  grips  ==  take and keep a firm hold of; grasp tightly. [ nyt11 : As the technology industry came to grips in the last week with the reality of a presidential election ] 
+127  contrite  == penitent,having remorse [ vocobo :Her contrite tears did not influence the judge  ] 
+128  condone  ==  overlook [ vocobo : They condoned amit's minor offenses  ] 
+129  desiccate  == dry up [ vocobo :The pioneers used to desiccate food in order to preserve it  ] 
+130  digression  == wandering away from topic [ vocobo : prof ank's digressions were always more fascinating that the topic of the day ] 
+131  enhance  ==  improve [ vocobo : your chances of promotion will be enhanced if ..  ] 
+132  commotion  ==  a state of confused and noisy disturbance. [ nyt15 :Their imminent arrival explains all the commotion inside this slate-colored house in the small city of Lancaster ] 
+133  impetus  ==  the force or energy with which a body moves [ nyt13 :Ms. Simons said the impetus for the institute evolved from a brainstorming workshop  ] 
+134  commensurate  ==  equal in extent [ vocobo :your reward will be commensurate with your effort ] 
+135  foray  ==  a sudden attack or incursion into enemy territory, especially to obtain something; a raid. [ nyt13 : this was its first foray into hiring its own scientists and embarking on its own research. ] 
+136  desultory  ==  aimless [ vocobo :To him reading was not desultory  ] 
+137  overt  ==  done or shown openly; plainly apparent. [ nyt11:things like overt calls to racial bias ] 
+139  cavernous  == giving the impression of vast, dark depths. [ nyt15 : begin racing through the cavernous store like contestants on the old “Supermarket Sweep” game show ] 
+140  paltry  == (of an amount) very small or meagre. [ nyt12: McDonald’s American restaurants rose a paltry 1.3 percent in the third quarter of this year. ] 
+141  dormant  == sleeping,lethargic [ vocobo : Sometimes dormant talents in our friends surprise us ] 
+142  averse  ==  having a strong dislike of or opposition to something. [ nyt15 :Still, given a president-elect who seems averse to the country’s modest commitment to refugee relocation, ] 
+143  conundrum  == riddle,diff problem [ vocobo : During the ride ,she invented conundrums to entertain the children ] 
+144  effrontery  == shameless boldness [ vocobo :She had the effrontery to insult the guest  ] 
+145  blatant  == done openly and unashamedly. [ nyt11 : including political parties, transnational organizations and longstanding, unspoken social prohibitions against blatant expressions of racism and xenophobia ] 
+146  ubiquity  ==  Ubiquity is the state of being everywhere all the time [ nyt11 : One is the ubiquity of Facebook, which has reached a truly epic scale. ] 
+147  rhetoric  ==  the art of effective or persuasive speaking or writing, especially the exploitation of figures of speech and other compositional techniques. [ nyt14 :Trump's campaign rhetoric ] 
+148  ilk  ==  a type of person or thing similar to one already referred to. [ nyt11 : It’s growing quickly, is doing some interesting things with glasses and has gotten a lot of attention. There aren’t a lot of that ilk. ] 
+149  emulate  ==  match or surpass (a person or achievement), typically by imitation. [ vocobo : "most rulers wished to emulate Alexander the Great"  ] 
+150  disparate  ==  different, unrelated [ vocobo :It is difficult to organize these disparate elements  ] 
+150
