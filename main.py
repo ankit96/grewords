@@ -27,7 +27,7 @@ for word in lines:
 		a.append(e)
 	dic.append(a)
 #print len(dic)
-shuffle(dic)
+#shuffle(dic)
 i=0
 for a in dic:
 	i=i+1
