@@ -79,7 +79,7 @@ vernacular = the language or dialect spoken by the ordinary people of a country 
  consternation is a noun that means fear resulting from the awareness of danger.
 gall = 	the trait of being rude and impertinent; inclined to take libertie
 conceit = false pride
- staid is an adjective that means characterized by dignity and propriety. = proper
+ staid is an adjective that means characterized by dignity and propriety. = proper,sedate
 feudal = of or relating to or characteristic of feudalism
 vociferously = in a loud and forceful manner.
  curate is a noun that means a person authorized to conduct religious worship. = minister
@@ -162,6 +162,36 @@ vicissitude = a variation in circumstances or fortune at different times in your
  derrick is a noun that means a framework erected over an oil well for drilling.
 conceit is a noun that means a witty or ingenious turn of phrase.
 predestination is a noun that means previous determination as if by destiny or fate. 
+ protest is a verb that means to utter words of objection.
+ stave is a noun that means one of the slats of wood forming sides of a barrel or bucket.
+ disport is a verb that means to play boisterously. = cavort
+reserve refers to the quality of a shy or modest person who doesn’t easily express his or her feelings. 
+bearing = characteristic way of bearing one's body
+revive is a verb that means to restore from a depressed, inactive, or unused state.
+ actuate = put in motion or move to act
+infuriate = make furious
+protest is a noun that means a public manifestation of dissent.
+draught is a noun that means a current of air.
+ conceit is a noun that means feelings of excessive pride.
+supine is an adjective that means lying face upward.
+recumbent= lying down; in a position of comfort or rest
+A contrivance is a gadget or device that can be used for some particular purpose. The spinning blade of a blender is a contrivance that turns fruits and yogurt into a tasty smoothie.
+ evince is a verb that means to give expression to.
+ synthesis is a noun that means the process of producing a chemical compound.
+ execrate is a verb that means to find repugnant. =loathe,abhor
+pry = be nosey
+sift = put (a fine or loose substance) through a sieve so as to remove lumps or large particles.
+sieve = utensil
+stratify = form, arrange, or deposit in layers
+contrivance is a noun that means an artificial or unnatural arrangement of details or parts.
+ evince means to show or express clearly; to make plain
+supplant = supersede and replace.
+Synthesis is the act of combining elements to form something new. If you describe your bedroom decor as a synthesis of Andy Warhol and Punk Rock, we'll know you mean a mixture of these two styles.
+prostrate = stretched out and lying at full length along the ground
+grievous = causing or marked by grief or anguish
+
+
+
 
 
 
