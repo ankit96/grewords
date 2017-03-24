@@ -130,7 +130,7 @@ devious = deviating from a straight course
 bastion = a group that defends a principle
 cartel = a consortium of independent organizations formed to limit competition by controlling the production and distribution of a product or service
 oligarchy = a political system governed by a few people
-vassal is a noun that means a person holding a fief. =liege subject
+vassal is a noun that means a person holding a fief. =liege 
 fief = an estate of land, especially one held on condition of feudal service; a fee.
 prodigal = recklessly wasteful
 jester = a professional clown employed to entertain a king or nobleman in the Middle Ages
@@ -189,19 +189,55 @@ supplant = supersede and replace.
 Synthesis is the act of combining elements to form something new. If you describe your bedroom decor as a synthesis of Andy Warhol and Punk Rock, we'll know you mean a mixture of these two styles.
 prostrate = stretched out and lying at full length along the ground
 grievous = causing or marked by grief or anguish
+If you have misgivings about something, it means you're worried that it's not a good idea. Trying to fall asleep the night before a test, you might have misgivings about having studied so little.
+ranging is an adjective that means wandering freely.
+ supine is an adjective that means inactive
+debatable = open to doubt or debate
+stratified = deposited or arranged in horizontal layers
+stentorian = very loud or booming
+ countenance is a verb that means to consent to, give permission.
+ contrivance is a noun that means an elaborate or deceitful scheme to deceive or evade.
+conjecture = to believe especially on uncertain or tentative grounds
+supposition  = the cognitive process of supposing
+chime = a percussion instrument consisting of a set of tuned bells that are struck with a hammer; used as an orchestral instrument
+hoops = basketball
+bilges = the area on the outer surface of a ship's hull where the bottom curves to meet the vertical sides.
+If you have misgivings about something, it means you're worried that it's not a good idea.  = qualm
+turmoil = a violent disturbance
+caprice = a sudden desire
+grudge = a feeling of deep and bitter anger and ill-will
+A derrick is either a crane for lifting material or a framework over an oil well that allows the drilling machinery to be raised and lowered.
+ pall is a verb that means to become less interesting or attractive.
+sear = burn slightly and superficially so as to affect color
+dwindle = become smaller or lose substance
+sedate = characterized by dignity and propriety = staid
+prostrate = stretched out and lying at full length along the ground
+A maxim is a succinct formulation of a principle, rule, or basic truth about life. Usually clever, maxims are like great sayings everybody knows. Ben Franklin is the author of many, including "Early to bed, early to rise, makes a man healthy, wealthy, and wise."
+parable = a short moral story (often with animal characters)
+A prelate is a high-ranking member of the clergy, such as a cardinal, abbot, or bishop, who has authority over lesser clergy
+clergy  = the body of all people ordained for religious duties, especially in the Christian Church.
+stint means a set amount of time in which you do something — often work of some sort. "She served a stint in the army, followed by a stint in an office setting, before settling on a career as a lounge singer."
+ yen is a verb that means to have a desire for something or someone absent. = pine
+maneuver = a military training exercise
+arbitrate = act between parties with a view to reconciling differences
+contrivance = an artificiaL or unnatural arrangement of details or parts
+evince is a verb that means to give expression to.
+laud = praise, glorify, or honor
+surmise = infer from incomplete evidence 
+excavate = find by digging in the ground
+comportment = dignified manner or conduct
+extravagance = the quality of exceeding the appropriate limits of decorum or probability or truth
+disdain = lack of respect accompanied by a feeling of intense dislike
+contentment = happiness with one's situation in life
+accomplice = a person who joins with another in carrying out some plan
+patrician = belonging to or characteristic of the nobility or aristocracy
+dingy = thickly covered with ingrained dirt or soot
+wanton = (of a cruel or violent action) deliberate and unprovoked. OR(especially of a woman) sexually immodest or promiscuous.
+Grandiloquence = bombasic
+purport = propose or intend
+annals = a chronological account of events in successive years 
+acclaim =enthusiastic approval
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+diff words in 1-50:	premise.dissipated,vitiates,enjoin,scruple,odium,ordination,confection
