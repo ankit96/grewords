@@ -107,7 +107,7 @@ An advert is an advertisement:
 consternation is a noun that means fear resulting from the awareness of danger  = dismay
 aversion = a feeling of intense dislike
 solemnity =a trait of dignified seriousness
-enmity = the feeling of a hostile person
+enmity = a state or feeling of active opposition or hostility.
 indigenous = originating or occurring naturally in a particular place; native.
 pique is a noun that means a sudden outburst of anger. = annoyance
 apprehension = fearful expectation or anticipation
@@ -119,7 +119,7 @@ intermediary = a negotiator who acts as a link between parties
 greedy is an adjective that means immoderately desirous of acquiring something
 execrate. The word means to despise or also to curse. 
 instigate = provoke or stir up
-sheathe = enclose with a sheath
+sheathe = enclose with a sheath[a close-fitting cover for the blade of a knife or sword.]
 abominate = find repugnant [unacceptable]
 Solicitude is more-than-average concern for someone.
  consternation is a noun that means fear resulting from the awareness of danger.
@@ -129,6 +129,7 @@ devious = deviating from a straight course
  tableau is a noun that means a group of people attractively arranged.
 bastion = a group that defends a principle
 cartel = a consortium of independent organizations formed to limit competition by controlling the production and distribution of a product or service
+consortium = an association, typically of several companies.
 oligarchy = a political system governed by a few people
 vassal is a noun that means a person holding a fief. =liege 
 fief = an estate of land, especially one held on condition of feudal service; a fee.
@@ -237,7 +238,88 @@ Grandiloquence = bombasic
 purport = propose or intend
 annals = a chronological account of events in successive years 
 acclaim =enthusiastic approval
+ throttle is a verb that means to kill by squeezing the throat of so as to cut off the air.
+beguile = attract; cause to be enamored
+dolorous = feeling or expressing great sorrow or distress.
+prodigal = Use the adjective prodigal to describe someone who spends too much money, or something very wasteful. Your prodigal spending on fancy coffee drinks might leave you with no money to buy lunch.
+ inconsolable is an adjective that means sad beyond comforting. = desolate
+malady = impairment of normal physiological function affecting part or all of an organism
+contentment = happiness with one's situation in life
+discreet = marked by prudence or modesty and wise self-restraint
+competent = properly or sufficiently qualified or capable or efficient
+fickle = liable to sudden unpredictable change
+ inconsolable is an adjective that means sad beyond comforting.
+ecstatic  = feeling great rapture or delight
+supine is an adjective that means offering no resistance. = inactive
+ wanton is an adjective that means unprovoked or without motive or justification. = gratuitous
+gratuitous = unnecessary and unwarranted
+harebrained = very foolish
+guilt-ridden = feeling or revealing a sense of guilt
+orientation is a noun that means a predisposition in favor of something.
+orthodontics = the branch of dentistry dealing with the prevention or correction of irregularities of the teeth
+parenthesis = a message that departs from the main subject
+ prodigal is a noun that means a recklessly extravagant consumer.
+A victual is anything that can be eaten. Victuals are food.
+Metaphysics is the philosophical study of being and knowing. If you have ever contemplated your own existence in the universe, you were dabbling in metaphysics. = ontology
+ misgiving is a noun that means uneasiness about the fitness of an action.
+whim = an odd or fanciful or capricious idea
+precedence is a noun that means the act of coming before in time or order or rank .
+ victual is a noun that means any substance that can be used as food. = comestible
+importune is to beg, but use it only when you're talking about going beyond mere begging into more urgent territory
+A prelate is a high-ranking member of the clergy, such as a cardinal, abbot, or bishop, who has authority over lesser clergy. 
+A vale is a long depression in the land, usually between two hills and containing a river. A vale is a valley.
+ synthesis is a noun that means the combination of ideas into a complex whole.
+sagacity is a noun that means the ability to understand and discriminate between relations.
+discernment = the cognitive condition of someone who understands
+ To reprove is to scold, reprimand, or — in plain English — “chew out.”
+affectation is all about faking it  = Never confuse affectation with affection — which means “love” or “tenderness.” While affection might not always be genuine, affectation is never the real thing. In fact, affectation is all about faking it. Do you believe the politician cares about poor people, or do you think his concern is an affectation?
+vanity = feelings of excessive pride
+enmity = a state of deep-seated ill-will
+reprieve = postpone the punishment of a convicted criminal, such as an execution
+reprove = admonish = take to task 
+sully = make dirty or spotty, as by exposure to air; also used metaphorically
+topple = fall down, as if collapsing
+scruple = uneasiness about the fitness of an action
+propensity = an inclination to do something
+deserts is a noun that means an outcome (good or bad) that is well deserved.
+reprobate is a noun that means a person without moral scruples. = wrongdoer
+procrastinator = someone who postpones work
+repute is a verb that means to look on as or consider.
+epigram is a noun that means a witty saying. = quip
+allegory = a short moral story (often with animal characters)
+Heath is open land with low growing grasses and plants. If you travel to England, you can drive out in the countryside to see the heath that you've read about in novels. = moor
+cove = a small inlet
+Misgivings are feelings of doubt you experience about something before you do it. = scruple
+ recourse is a noun that means something or someone turned to for assistance or security. = expedient
+wax is a verb that means to increase in phase.
+waned = ) have a progressively smaller part of its visible surface illuminated, so that it appears to decrease in size.
+recede = pull back or move away or backward
+kindle = catch fire
+stump = mix up There are three ways to stump: you can ask someone a question they can't answer, you can travel making political speeches, or you can stomp.
+ cur is a noun that means a cowardly and despicable person.
+A wont is a custom or habit, like my wont to drink at least ten cups of coffee a day.
+ seemly is an adjective that means according with custom or propriety.
+flick = throw or toss with a quick motion
+blasphemy = blasphemous language (expressing disrespect for God or for something sacred)
+facade = the face or front of a building
+twain = two items of same kind
+deign is a verb that means to do something that one considers to be below one's dignity.
+contrive = make or work out a plan for; devise
+billow is a noun that means a large sea wave. = surge
+sacrament = a formal religious ceremony conferring a specific grace 
+
+
+
+
+
+
+
+
+
+
 
 
 
 diff words in 1-50:	premise.dissipated,vitiates,enjoin,scruple,odium,ordination,confection
+diff words in 51-100:	astute,disport,gall,ostensible,impute,moratorium,inducement,detriment,nervy
+diff words in 101-151:  pique,abominate,invigorating,cartel,oligarchy,palpate,confederate,snort,voluble
