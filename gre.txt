@@ -67,7 +67,7 @@ stratagem = a plan or scheme, especially one used to outwit an opponent or achie
 eerie = suggestive of the supernatural; mysterious
 hapless = deserving or inciting pity
 impalpable = unable to be felt by touch.
-astute = having or showing an ability to accurately assess situations or people and turn this to one's advantage.
+astute = having or showing an ability to accurately assess situations or people and turn this to one's advantage. = shrewd
 disport = enjoy oneself unrestrainedly; frolic.
 patronize = treat with an apparent kindness which betrays a feeling of superiority.
 unaccustomed = not familiar or usual; out of the ordinary.
@@ -149,7 +149,6 @@ conceit = If you’re always boasting and can’t stop talking about yourself, y
 gelid is an adjective that means extremely cold. = frigid
 candid = truthful and straightforward; frank.
 infuriate = make (someone) extremely angry and impatient.
-pall is a noun that means a sudden numbing dread.
 animosity = a feeling of ill will arousing active hostility
 ardor = feelings of great warmth and intensity
  amity refers to a peaceful, friendly nature, much like the French word for friend — "ami."
@@ -307,6 +306,51 @@ deign is a verb that means to do something that one considers to be below one's 
 contrive = make or work out a plan for; devise
 billow is a noun that means a large sea wave. = surge
 sacrament = a formal religious ceremony conferring a specific grace 
+A participle is a verb that acts like an adjective, like a running leap, scorned lover, or boiled egg.
+vestibule is a noun that means a large entrance or reception room or area.
+obsequious = attempting to win favor from influential people by flattery = fawning
+bureau is a noun that means an administrative unit of government.
+sconce is a noun that means a decorative wall bracket for holding candles or lights.
+A portico is a front porch with columns.
+To acquiesce is to agree to something or to give in. If your kid sister is refusing to hand over the television remote, you hope she acquiesces before your favorite show comes on.
+Verdigris is the blue-green tarnish on certain metals after they are left outside for a long period of time. 
+A tenement is a run-down apartment building. The tenements in Old New York were barely safe enough to live in
+A chignon is a sleek, elegant hairdo that's similar to a bun. A ballerina might pull her hair back into a chignon.
+ arbor is a noun that means tree.
+A pergola is a wooden structure in a garden that's made for climbing plants.
+sardonic is an adjective that means disdainfully or ironically humorous. = sarcastic
+Sumptuous carries both meanings with it. It is a pricey, high quality thing that's meant to be consumed or enjoyed.
+sortie = When a group of soldiers is sent on a specific mission, it's called a sortie. 
+insolent is an adjective that means marked by casual disrespect. = audacious,brassy
+ acquiesce is a verb that means to to agree or express agreement. = accede
+glut = supply with an excess of
+Capricious is an adjective to describe a person or thing that's impulsive and unpredictable, like a bride who suddenly leaves her groom standing at the wedding altar. = arbitary
+amorous = inclined toward or displaying love
+arbor is a noun that means a framework that supports climbing plants. = trellis
+tether = restraint consisting of a rope (or light chain) used to restrain an animal
+trident = a spear with three prongs
+verdigris is a noun that means a blue or green powder used as a paint pigment.
+vestibule is a noun that means a large entrance or reception room or area.
+sortie = foray = a sudden short attack
+prodigy = a young person with exceptional qualities or abilities.
+schism = division of a group into opposing factions
+scuffle = fight or struggle in a confused way at close quarters
+scone = small biscuit (rich with cream and eggs) cut into diamonds or sticks and baked in an oven or (especially originally) on a griddle
+bureau = A dresser or a chest of drawers can also be called a bureau
+melancholic = feeling or expressing pensive sadness.
+unflattering is an adjective that means not showing or representing in a favorable way.
+Plaintive is an adjective for describing someone or something with a pleading, sorrowful, desperate tone.
+giddy = lacking seriousness; given to frivolity
+furtive = secret and sly or sordid
+sly = having or showing a cunning and deceitful nature.
+billow = rise up as if in waves
+cur is a dog that isn't very good i.e inferior and of mixed breed
+deign is a verb that means to do something that one considers to be below one's dignity.
+To acquit someone is to clear them of charges. Acquitting also has to do with how you carry or present yourself.
+seemly is an adjective that means according with custom or propriety.
+stump is a verb that means to cause to be perplexed or confounded.
+
+
 
 
 
@@ -323,3 +367,6 @@ sacrament = a formal religious ceremony conferring a specific grace
 diff words in 1-50:	premise.dissipated,vitiates,enjoin,scruple,odium,ordination,confection
 diff words in 51-100:	astute,disport,gall,ostensible,impute,moratorium,inducement,detriment,nervy
 diff words in 101-151:  pique,abominate,invigorating,cartel,oligarchy,palpate,confederate,snort,voluble
+
+
+310-340 :sconce,insolent,obsequious,verdigris,vestibule,tenement,sortie,arbor,acquiesce
